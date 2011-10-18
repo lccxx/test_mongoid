@@ -1,0 +1,3 @@
+host: localhost
+database: godfather
+persist_in_safe_mode: true
